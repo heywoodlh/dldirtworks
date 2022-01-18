@@ -1,5 +1,5 @@
 <div id="gallery">{% for image in include.images %} 
-  <img class="slides" src="{{ image }}">{% endfor %} 
+  <img class="basement_slides" src="{{ image }}">{% endfor %} 
   <button onclick="plusDivs(-1)">❮</button> 
   <button onclick="plusDivs(1)">❯</button> 
 </div> 
@@ -10,7 +10,7 @@
   } 
   function showDivs(n) { 
     var i; 
-    var x = document.getElementsByClassName("slides"); 
+    var x = document.getElementsByClassName("basement_slides"); 
     if (n > x.length) {
       slideIndex = 1
     } 
