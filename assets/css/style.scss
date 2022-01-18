@@ -27,3 +27,11 @@
 .topnav a.active {
   color: white;
 }
+
+.carousel__controls {
+  display: none!important; /* Hide carousel arrows */
+}
+
+.carousel__indicators {
+  display: none; /* Hide carousel indicators */
+}
