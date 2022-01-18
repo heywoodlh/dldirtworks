@@ -6,20 +6,20 @@ header_pages:
 
 carousels:
   - images:
-    - ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_001.jpeg 
-    - ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_002.jpeg 
-    - ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_003.jpeg 
-    - ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_004.jpeg 
-    - ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_005.jpeg 
-    - ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_006.jpeg 
-    - ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_007.jpeg 
-    - ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_008.jpeg 
+    - image: ./images/land- image:clearing- image:cabin- image:pad/signal- image:2022- image:01- image:16- image:163723_001.jpeg 
+    - image: ./images/land- image:clearing- image:cabin- image:pad/signal- image:2022- image:01- image:16- image:163723_002.jpeg 
+    - image: ./images/land- image:clearing- image:cabin- image:pad/signal- image:2022- image:01- image:16- image:163723_003.jpeg 
+    - image: ./images/land- image:clearing- image:cabin- image:pad/signal- image:2022- image:01- image:16- image:163723_004.jpeg 
+    - image: ./images/land- image:clearing- image:cabin- image:pad/signal- image:2022- image:01- image:16- image:163723_005.jpeg 
+    - image: ./images/land- image:clearing- image:cabin- image:pad/signal- image:2022- image:01- image:16- image:163723_006.jpeg 
+    - image: ./images/land- image:clearing- image:cabin- image:pad/signal- image:2022- image:01- image:16- image:163723_007.jpeg 
+    - image: ./images/land- image:clearing- image:cabin- image:pad/signal- image:2022- image:01- image:16- image:163723_008.jpeg 
   - images:
-    - ./images/basement-excavation/signal-2022-01-16-164212_001.jpeg
-    - ./images/basement-excavation/signal-2022-01-16-164212_002.jpeg
+    - image: ./images/basement- image:excavation/signal- image:2022- image:01- image:16- image:164212_001.jpeg
+    - image: ./images/basement- image:excavation/signal- image:2022- image:01- image:16- image:164212_002.jpeg
   - images:
-    - ./images/utilities-geothermal/signal-2022-01-16-164809_001.jpeg
-    - ./images/utilities-geothermal/signal-2022-01-16-164809_002.jpeg
-    - ./images/utilities-geothermal/signal-2022-01-16-164809_003.jpeg
-    - ./images/utilities-geothermal/signal-2022-01-16-164809_004.jpeg
-    - ./images/utilities-geothermal/signal-2022-01-16-164809_005.jpeg
+    - image: ./images/utilities- image:geothermal/signal- image:2022- image:01- image:16- image:164809_001.jpeg
+    - image: ./images/utilities- image:geothermal/signal- image:2022- image:01- image:16- image:164809_002.jpeg
+    - image: ./images/utilities- image:geothermal/signal- image:2022- image:01- image:16- image:164809_003.jpeg
+    - image: ./images/utilities- image:geothermal/signal- image:2022- image:01- image:16- image:164809_004.jpeg
+    - image: ./images/utilities- image:geothermal/signal- image:2022- image:01- image:16- image:164809_005.jpeg
