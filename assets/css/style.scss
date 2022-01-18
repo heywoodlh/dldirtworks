@@ -28,10 +28,11 @@
   color: white;
 }
 
-.carousel__controls {
-  opacity: 0!important;
+.carousel__indicators {
+  display: none; 
 }
 
-.carousel__indicators {
-  opacity: 0;
+.carousel__controls {
+  height: 15px;
+  width: 15px;
 }
