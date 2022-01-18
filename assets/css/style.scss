@@ -29,9 +29,9 @@
 }
 
 .carousel__controls {
-  display: none!important; /* Hide carousel arrows */
+  opacity: 0;
 }
 
 .carousel__indicators {
-  display: none; /* Hide carousel indicators */
+  opacity: 0;
 }
