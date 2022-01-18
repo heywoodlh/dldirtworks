@@ -6,10 +6,10 @@ permalink: /services
 At DL Dirtworks we can provide a variety of services for your landscaping needs!
 
 ## Land Clearing/Cabin Pad Excavation:
-{% include slideshow.html images=site.landclear_slideshow %}
+{% include carousel.html height="50" unit="%" duration="3" number="1" %}
 
 ## Basement Excavation:
-{% include slideshow.html images=site.basement_slideshow %}
+{% include carousel.html height="50" unit="%" duration="3" number="2" %}
 
 ## Utilities/Geothermal Excavation:
-{% include slideshow.html images=site.utilities_slideshow %}
+{% include carousel.html height="50" unit="%" duration="3" number="3" %}
