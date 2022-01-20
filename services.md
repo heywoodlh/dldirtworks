@@ -11,6 +11,7 @@ carousels:
     - image: ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_006.jpeg 
     - image: ./images/land-clearing-cabin-pad/signal-2022-01-19-192256.jpeg
     - image: ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_008.jpeg 
+    - image: ./images/land-clearing-cabin-pad/signal-2022-01-19-193547.jpeg
   - images:
     - image: ./images/basement-excavation/signal-2022-01-16-164212_001.jpeg
     - image: ./images/basement-excavation/signal-2022-01-16-164212_002.jpeg
@@ -30,5 +31,6 @@ At DL Dirtworks we can provide a variety of services for your excavation needs!
 ## Basement Excavation:
 {% include carousel.html height="50" unit="%" number="2" %}
 
-## Utilities/Geothermal Excavation:
+## Utilities Excavation:
 {% include carousel.html height="50" unit="%" number="3" %}
+
