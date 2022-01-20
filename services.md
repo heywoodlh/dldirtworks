@@ -9,7 +9,7 @@ carousels:
     - image: ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_004.jpeg 
     - image: ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_005.jpeg 
     - image: ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_006.jpeg 
-    - image: ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_007.jpeg 
+    - image: ./images/land-clearing-cabin-pad/signal-2022-01-19-192256.jpeg
     - image: ./images/land-clearing-cabin-pad/signal-2022-01-16-163723_008.jpeg 
   - images:
     - image: ./images/basement-excavation/signal-2022-01-16-164212_001.jpeg
