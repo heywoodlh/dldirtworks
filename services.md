@@ -25,10 +25,10 @@ carousels:
 At DL Dirtworks we can provide a variety of services for your excavation needs!
 
 ## Land Clearing/Cabin Pad Excavation:
-{% include carousel.html height="50" unit="%" duration="0" number="1" %}
+{% include carousel.html height="50" unit="%" number="1" %}
 
 ## Basement Excavation:
-{% include carousel.html height="50" unit="%" duration="0" number="2" %}
+{% include carousel.html height="50" unit="%" number="2" %}
 
 ## Utilities/Geothermal Excavation:
-{% include carousel.html height="50" unit="%" duration="0" number="3" %}
+{% include carousel.html height="50" unit="%" number="3" %}
