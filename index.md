@@ -1,4 +1,4 @@
-<img title="DL Dirtworks LLC" src="./images/dl-dirtworks-logo-transparency.png">
+<img title="DL Dirtworks LLC" src="./images/dldirtworks-cover.jpg">
 
 ## About DL Dirtworks LLC
 
