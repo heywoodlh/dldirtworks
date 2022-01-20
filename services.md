@@ -22,7 +22,7 @@ carousels:
     - image: ./images/utilities-geothermal/signal-2022-01-16-164809_005.jpeg
 ---
 
-At DL Dirtworks we can provide a variety of services for your landscaping needs!
+At DL Dirtworks we can provide a variety of services for your excavation needs!
 
 ## Land Clearing/Cabin Pad Excavation:
 {% include carousel.html height="50" unit="%" duration="0" number="1" %}
